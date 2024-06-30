@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Evelyne van Ruymbeke
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Evelyne
+last_name: van Ruymbeke
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Polymer Rheology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Université catholique de Louvain
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
