@@ -14,16 +14,17 @@ role: Professor of Polymer Rheology
 
 # Organizations/Affiliations
 organizations:
-  - name: Université catholique de Louvain
-    url: ''
+  - name: Bio- and Soft Matter (BSMA), Institute of Condensed Matter and Nanosciences (IMCN), Université catholique de Louvain
+    url: 'https://uclouvain.be/en/research-institutes/imcn/bsma'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The overall objective of my research is to develop molecular models, complemented by rheological and scattering experiments, in order to build predictive tools aimed at linking molecular structure to flow, and eventually design novel materials with desired properties
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Rheology of architecturally complex macromolecules: from mesoscopic modelling to processing
+  - Fundamental questions about tube models
+  - Statistical tools linking synthesis to chain architectures
+  - Multiscale dynamics of supramolecular polymeric assemblies
 
 education:
   courses:
